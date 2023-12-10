@@ -70,7 +70,8 @@
     ]
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@commonbrushtail"
+    "registry": "https://npm.pkg.github.com/@commonbrushtail",
+    "name": "@commonbrushtail/SS-Select"
   }
   
 }
