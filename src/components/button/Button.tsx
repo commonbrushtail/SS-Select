@@ -10,7 +10,7 @@ export type ButtonProps = {
 };
 const StyledButton = styled.button<ButtonProps>`
   border: 0;
-  line-height: 1;
+  line-height: 2;
   font-size: 15px;
   cursor: pointer;
   font-weight: 700;
